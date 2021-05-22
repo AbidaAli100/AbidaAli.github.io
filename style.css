@@ -1,0 +1,158 @@
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+    background-color: #f8f8f8;
+   
+} 
+
+.container-fluid {
+
+    background-color: #a98ddd;
+    display: block;
+}
+
+.container-fluid ul{
+    margin-left: 52.7em;
+    padding: 0%;
+
+    
+}
+
+.container-fluid li {
+    display: inline-block;
+    position: relative;
+    margin: 1em;
+    font-size: large;
+    font-weight: bold;
+}
+
+.container-fluid  li a{
+    display: block;
+    text-decoration: none;
+    color: black;
+
+    
+}
+.image img{
+    position: absolute;
+    width: 13em;
+    margin-left: 8em;
+    margin-right: 3em;
+    margin-top: 5.5em;
+    float: left;
+    border-radius: 100px;
+    background-color:  #a98ddd;
+    border: 2px solid black;
+}
+.main-content {
+   
+    position: absolute;
+    margin-top: 8em;
+    right: 8em;
+    background-color: #f3f5eb;
+    border-radius: 20px;
+    border: 2px solid black;
+    
+}
+.main-content {
+   font-weight: bolder;
+   font-size: x-large;
+}
+.main-content p{
+    padding: 1.5em;
+    line-height: 1.5em;
+    font-weight: bold;
+    font-size: larger;
+    padding: 1em;
+    background-color: #a98ddd;
+    border-radius: 8px;
+}
+
+
+
+.footer {
+    background-color: #a98ddd;
+margin-top: 27em;
+    padding: 1em;
+    text-align: right;
+    
+}
+
+h1{
+    float: left;
+    margin-left: 10px;
+}
+.achivements{
+    margin-top: 27em;
+    margin-left: 4em;
+}
+ .img-1 img{
+    position: absolute;
+    width: 200px;
+    margin-top: 3em;
+ margin-left: 8em;
+    border: 2px solid black;
+
+}
+.img-2 img{
+    position: absolute;
+    width: 200px;
+    height:280px;
+    margin-top: 2em;
+ margin-left: 50em;
+    border: 2px solid black;
+
+} 
+.heading-2{
+    /* border: 5px solid #a98ddd; */
+    width:  300px;
+    height:  100px;
+    margin-left: 26em;
+    margin-top: 8em;
+    
+}
+.form-init{
+    border: 5px solid #a98ddd;
+    width:  720px;
+    height:  550px;
+    margin-left: 26em;
+    margin-top: 2em;
+}
+.form-init label{
+    font-weight: bolder;
+    padding: 10px;
+}
+.form-init input{
+    border: 2px solid black;
+}
+.mb-4 textarea{
+    font-weight: bolder;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.footer {
+    /* float: right; */
+    padding-left: 20em;
+    padding-right: 20em;
+    
+}
+
+.footer li {
+    display: inline-block;
+    position: relative; 
+    margin: 1em;
+    font-size: large;
+    font-weight: bold;
+   
+   
+}
+.footer a {
+    text-decoration: none;
+    display: block;
+    width: 50px;
+    color: black;
+
+}
